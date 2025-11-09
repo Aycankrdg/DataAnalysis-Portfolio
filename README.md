@@ -42,7 +42,8 @@ This repository contains a selected portfolio of healthcare data analysis report
 **Summary:** Patient segmentation on 55,500 records (sampled n=5,000) produced three clinically meaningful clusters (low-cost short-stay, high-cost medium-stay, low-cost extended-stay). Predictive models for test results achieved ~34% accuracy (limited by administrative-only features); billing amount, age, and length of stay were most informative.
 
 ---
-### 4)The Impact of Demographic Factors on Diabetes Prevalence (BRFSS 2015)
+
+### 4) The Impact of Demographic Factors on Diabetes Prevalence (BRFSS 2015)
 **File:** Reports/HealthResearchReport.pdf
 **Type:** Epidemiological analysis, Logistic regression, Chi-square tests
 **Tools (reported):** R (tidyverse, ggplot2, dplyr)
@@ -53,7 +54,8 @@ This repository contains a selected portfolio of healthcare data analysis report
 -Policy implications highlight the need for targeted preventive strategies addressing socio-economic disparities.
 
 ---
-### 5)Which Customer Action Speaks Loudest? (Marketing Analytics Project)
+
+### 5) Which Customer Action Speaks Loudest? (Marketing Analytics Project)
 **File:** Reports/Customer_Purchase_Predictors.docx
 **Type:** Predictive modeling, Logistic regression, Random forest
 **Tools (reported):** R (caret, randomForest, pROC)
@@ -66,7 +68,8 @@ This repository contains a selected portfolio of healthcare data analysis report
 -Use location-based targeting for high-performing regions (Sydney, Perth).
 
 ---
-### 6)The Efficacy of Body Circumference Measurements in Predicting Body Fat Percentage
+
+### 6) The Efficacy of Body Circumference Measurements in Predicting Body Fat Percentage
 **File:** Reports/Body_Circumference_Prediction.docx
 **Type:** Correlation & Regression Analysis (Anthropometric study)
 **Tools (reported):** R (base, stats, ggplot2)
@@ -74,6 +77,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 -Strongest predictor: Abdominal circumference (r = 0.813, R² ≈ 0.64).
 -Regression equation: Body Fat = 1.186 - 0.00141 × Abdomen.
 Findings suggest abdominal circumference is a low-cost, reliable proxy for adiposity and can support public health screening and obesity prevention initiatives.
+
 
 ## Notes on code and datasets
 -These reports were created as part of coursework; original analysis scripts/datasets used during the course are not included here.
