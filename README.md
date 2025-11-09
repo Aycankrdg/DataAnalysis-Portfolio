@@ -11,7 +11,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ## Contents
-- `Reports/` — Full project reports (PDF / DOCX)  
+- `Reports/` — Full project reports (PDF format)  
 - `Visuals/` — Figures and key charts extracted from reports  
 - `README.md` — This overview and quick links to each project  
 
@@ -28,7 +28,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ### 2) Strategic Healthcare Cost Management
-**File:** `Reports/Strategic_Healthcare_Cost_Management.docx`  
+**File:** `Reports/Strategic_Healthcare_Cost_Management.pdf`  
 **Type:** Operational analytics, cost drivers, predictive modeling  
 **Tools (reported):** R (tidyverse, randomForest, rpart), clustering, regression  
 **Summary:** Integrated analysis across finance, inventory, patient, and staffing datasets. Identified overtime and staffing costs as major drivers; proposed operational levers for cost optimization and predictive alerts for deteriorating performance.  
@@ -36,7 +36,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ### 3) Patient Segmentation & Test Result Prediction (ML)
-**File:** `Reports/Patient_Segmentation_ML.docx`  
+**File:** `Reports/Patient_Segmentation_ML.pdf`  
 **Type:** Clustering (K-means), Decision Tree, Random Forest  
 **Tools (reported):** R (caret, randomForest)  
 **Summary:** Patient segmentation on 55,500 records (sampled n=5,000) produced three clinically meaningful clusters (low-cost short-stay, high-cost medium-stay, low-cost extended-stay). Predictive models for test results achieved ~34% accuracy (limited by administrative-only features); billing amount, age, and length of stay were most informative.  
@@ -56,10 +56,10 @@ Policy implications highlight the need for **targeted preventive strategies** ad
 ---
 
 ### 5) Which Customer Action Speaks Loudest? (Marketing Analytics Project)
-**File:** `Reports/Customer_Purchase_Predictors.docx`  
+**File:** `Reports/Customer_Purchase_Predictors.pdf`  
 **Type:** Predictive modeling, Logistic regression, Random forest  
 **Tools (reported):** R (caret, randomForest, pROC)  
-**Summary:** Data-driven analysis of marketing campaign responses (n=20) to identify the best predictors of customer purchase decisions.  
+**Summary:** Data-driven analysis of marketing campaign responses to identify the best predictors of customer purchase decisions.  
 - **Top predictors:** Age and product page visits.  
 - **Model performance:** Random Forest (AUC=1.0, Accuracy=83.3%) > Logistic Regression (AUC=0.67).  
 Recommendations:  
@@ -70,7 +70,7 @@ Recommendations:
 ---
 
 ### 6) The Efficacy of Body Circumference Measurements in Predicting Body Fat Percentage
-**File:** `Reports/Body_Circumference_Prediction.docx`  
+**File:** `Reports/Body_Circumference_Prediction.pdf`  
 **Type:** Correlation & Regression Analysis (Anthropometric study)  
 **Tools (reported):** R (base, stats, ggplot2)  
 **Summary:** Investigated the relationship between **body circumference measurements** and **body fat percentage** in adult males.  
@@ -88,7 +88,7 @@ Findings suggest abdominal circumference is a **low-cost, reliable proxy** for a
 ---
 
 ## How to read these reports
-- Open the corresponding file under `Reports/` (PDF/DOCX).  
+- Open the corresponding file under `Reports/` (PDF format).  
 - For quick visual highlights, check `Visuals/` for selected figures and charts.  
 
 ---
