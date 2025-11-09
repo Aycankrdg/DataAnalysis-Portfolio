@@ -44,7 +44,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ### 4) The Impact of Demographic Factors on Diabetes Prevalence (BRFSS 2015)
-**File:** Reports/HealthResearchReport.pdf
+**File:** `Reports/HealthResearchReport.pdf`
 **Type:** Epidemiological analysis, Logistic regression, Chi-square tests
 **Tools (reported):** R (tidyverse, ggplot2, dplyr)
 **Summary:** Analysis of 250,000+ U.S. adults from the 2015 BRFSS dataset exploring how age, gender, income, and education affect diabetes prevalence. Significant findings include:
@@ -56,7 +56,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ### 5) Which Customer Action Speaks Loudest? (Marketing Analytics Project)
-**File:** Reports/Customer_Purchase_Predictors.docx
+**File:** `Reports/Customer_Purchase_Predictors.docx`
 **Type:** Predictive modeling, Logistic regression, Random forest
 **Tools (reported):** R (caret, randomForest, pROC)
 **Summary:** Data-driven analysis of marketing campaign responses (n=20) to identify the best predictors of customer purchase decisions.
@@ -70,7 +70,7 @@ This repository contains a selected portfolio of healthcare data analysis report
 ---
 
 ### 6) The Efficacy of Body Circumference Measurements in Predicting Body Fat Percentage
-**File:** Reports/Body_Circumference_Prediction.docx
+**File:** `Reports/Body_Circumference_Prediction.docx`
 **Type:** Correlation & Regression Analysis (Anthropometric study)
 **Tools (reported):** R (base, stats, ggplot2)
 **Summary:** Investigated the relationship between body circumference measurements and body fat percentage in adult males.
