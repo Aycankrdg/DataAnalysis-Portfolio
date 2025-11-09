@@ -6,7 +6,7 @@
 ---
 
 ## About
-This repository contains a selected portfolio of healthcare data analysis reports completed as part of coursework and independent projects. The focus areas are digital health communication, hospital cost management, and patient analytics using machine learning.
+This repository contains a selected portfolio of healthcare data analysis reports completed as part of coursework and independent projects. The focus areas are digital health communication, hospital cost management, patient analytics using machine learning, and epidemiological modeling.
 
 ---
 
